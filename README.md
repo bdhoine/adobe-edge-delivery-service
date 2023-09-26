@@ -1,9 +1,8 @@
-# Your Project's Title...
-Your project's description...
+# Adobe Edge Delivery Service
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--adobe-edge-delivery-service--bdhoine.hlx.page/
+- Live: https://main--adobe-edge-delivery-service--bdhoine.hlx.live/
 
 ## Installation
 
@@ -23,4 +22,4 @@ npm run lint
 1. Add the [helix-bot](https://github.com/apps/helix-bot) to the repository
 1. Install the [Helix CLI](https://github.com/adobe/helix-cli): `npm install -g @adobe/helix-cli`
 1. Start Franklin Proxy: `hlx up` (opens your browser at `http://localhost:3000`)
-1. Open the `{repo}` directory in your favorite IDE and start coding :)
+1. Open the `adobe-edge-delivery-service` directory in your favorite IDE and start coding :)
